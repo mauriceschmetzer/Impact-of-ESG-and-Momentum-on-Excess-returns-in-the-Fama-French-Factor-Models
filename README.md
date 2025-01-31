@@ -1,2 +1,4 @@
-# Impact-of-ESG-and-Momentum-on-Excess-returns-in-the-Fama-French-Factor-Models
-This paper extends the Fama &amp; French (2015) multi-factor model by incorporating both a momentum and an ESG factor.
+# Impact of ESG and Momentum on Excess Returns in the Fama-French Factor Models
+
+This paper was created by myself and in part by two other students. Their names have been removed from the paper to respect their privacy. 
+
